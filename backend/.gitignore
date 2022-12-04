@@ -1,0 +1,12 @@
+common/__pycache__
+common/migrations
+
+accounts/__pycache__
+accounts/migrations
+
+polls/__pycache__
+polls/migrations
+
+backend/__pycache__
+
+db.sqlite3
