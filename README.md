@@ -2,7 +2,7 @@
 
 1. Для начала склонируйте репозиторий:
 ```
-git clone https://github.com/madzhar-code/polls-app
+git clone https://github.com/madjar-code/polls-app
 ```
 
 2. Создайте виртуальное окружение:
